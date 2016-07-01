@@ -4,7 +4,7 @@ scrip to send data(instruction) to raspberry pi (or any device) on the  network 
 
 ## usage
 
-download or clone it then go to there folder ,unzip it then go to the folder from terminal like
+download or clone it ,unzip it then go to the folder from terminal like
 
     cd ~/Documents/SCP
     python send.py
