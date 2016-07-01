@@ -1,6 +1,6 @@
 # SCP Secure Copy
 
-scrip to send data(instruction to raspberry pi (or any device) on the  network using Secure Copy
+scrip to send data(instruction) to raspberry pi (or any device) on the  network using Secure Copy
 
 ## usage
 
