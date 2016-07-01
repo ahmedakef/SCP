@@ -15,11 +15,11 @@ run the receive script
 
 ## content
 
-**send.py** you can edit this file as you wand and just send the data using the function **send_data(data)**
+**send.py** : you can edit this file as you wand and just send the data using the function **send_data(data)**
 
-**receive.py** it have the function **recived_data()** which return the data received that you can use to take decisions 
+**receive.py** : it have the function **recived_data()** which return the data received that you can use to take decisions 
 
-**data.txt** the file which will be send to the rasspberry containning the data
+**data.txt** : the file which will be send to the rasspberry containning the data
 
 you can put the two functions in the same file to send and recive from each device
 
