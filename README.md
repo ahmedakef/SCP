@@ -25,3 +25,6 @@ you can put the two functions in the same file to send and recive from each devi
 
 this will ask for the password to login every time so you can ignor this by follow these instructions
 https://www.howtoforge.com/tutorial/ssh-and-scp-with-public-key-authentication/
+
+## resources
+https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md
